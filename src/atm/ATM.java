@@ -7,7 +7,7 @@ package atm;
 
 /**
  *
- * @author Jibran
+ * @author Farhan
  */
 public class ATM 
 {

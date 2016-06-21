@@ -23,7 +23,7 @@ public class Screen
     }
     public void displayDollarAmount( double amount )
     {
-        System.out.printf( "$%,.2f", amount );
+        System.out.printf( "$%,.2f", amoun );
     }
 }
 
